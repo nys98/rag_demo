@@ -1,0 +1,201 @@
+,asset_id,site,issue,health_score,repairs
+0,GEN000,Tampa,fuel contamination,1.99,moderate repair frequency
+1,GEN001,New York,High Precipitates in Fuel,0.25,moderate repair frequency
+2,GEN002,Buffalo,fuel contamination,1.45,high repair costs
+3,GEN003,Buffalo,coolant leak,1.36,moderate repair frequency
+4,GEN004,Buffalo,oil becoming worse quality,0.11,low repair frequency
+5,GEN005,Denver,High Precipitates in Fuel,1.51,high repair frequency
+6,GEN006,Atlanta,oil degradation,0.05,high repair frequency
+7,GEN007,Atlanta,coolant leak,1.62,moderate repair frequency
+8,GEN008,Seattle,High Precipitates in Fuel,0.05,high repair costs
+9,GEN009,Buffalo,Cloudy oil,0.43,moderate repair frequency
+10,GEN010,Buffalo,Cloudy oil,1.01,low repair frequency
+11,GEN011,Boston,oil degradation,0.98,high repair costs
+12,GEN012,Dallas,Cloudy oil,1.32,high repair costs
+13,GEN013,Boston,Cloudy oil,0.68,low repair frequency
+14,GEN014,Buffalo,motor vibration,1.87,high repair frequency
+15,GEN015,LA,Cloudy oil,1.91,high repair costs
+16,GEN016,LA,High Precipitates in Fuel,0.81,low repair frequency
+17,GEN017,New York,fuel contamination,1.37,high repair frequency
+18,GEN018,Denver,motor vibration,1.94,moderate repair frequency
+19,GEN019,Chicago,oil becoming worse quality,1.52,high repair costs
+20,GEN020,LA,oil becoming worse quality,0.07,high repair frequency
+21,GEN021,Tampa,oil becoming worse quality,0.48,moderate repair frequency
+22,GEN022,Buffalo,fuel contamination,1.11,high repair frequency
+23,GEN023,New York,oil degradation,1.76,high repair frequency
+24,GEN024,Dallas,fuel contamination,0.49,low repair frequency
+25,GEN025,New York,motor vibration,0.69,high repair frequency
+26,GEN026,Chicago,oil degradation,1.51,high repair frequency
+27,GEN027,LA,coolant leak,0.21,high repair frequency
+28,GEN028,Chicago,motor vibration,1.54,low repair frequency
+29,GEN029,Tampa,High Precipitates in Fuel,1.2,high repair frequency
+30,GEN030,New York,motor vibration,1.66,low repair frequency
+31,GEN031,Tampa,oil becoming worse quality,0.98,high repair frequency
+32,GEN032,Atlanta,High Precipitates in Fuel,1.18,high repair frequency
+33,GEN033,Atlanta,oil degradation,0.25,high repair costs
+34,GEN034,Dallas,fuel contamination,1.23,low repair frequency
+35,GEN035,Tampa,oil becoming worse quality,0.73,high repair frequency
+36,GEN036,Dallas,Cloudy oil,1.18,high repair costs
+37,GEN037,Atlanta,motor vibration,1.49,moderate repair frequency
+38,GEN038,New York,oil degradation,0.49,low repair frequency
+39,GEN039,Atlanta,motor vibration,0.79,low repair frequency
+40,GEN040,Seattle,oil degradation,0.35,low repair frequency
+41,GEN041,Chicago,oil becoming worse quality,0.71,low repair frequency
+42,GEN042,Dallas,coolant leak,1.83,high repair costs
+43,GEN043,Buffalo,fuel contamination,0.54,high repair frequency
+44,GEN044,Denver,coolant leak,1.95,moderate repair frequency
+45,GEN045,Boston,coolant leak,0.15,high repair frequency
+46,GEN046,New York,motor vibration,0.12,low repair frequency
+47,GEN047,Seattle,fuel contamination,1.71,moderate repair frequency
+48,GEN048,New York,oil degradation,0.2,low repair frequency
+49,GEN049,Chicago,Cloudy oil,0.04,moderate repair frequency
+50,GEN050,Atlanta,Cloudy oil,0.72,high repair costs
+51,GEN051,Dallas,fuel contamination,1.72,high repair costs
+52,GEN052,Atlanta,coolant leak,0.49,moderate repair frequency
+53,GEN053,Atlanta,Cloudy oil,1.29,high repair costs
+54,GEN054,LA,coolant leak,0.01,high repair costs
+55,GEN055,Tampa,coolant leak,0.03,high repair costs
+56,GEN056,New York,coolant leak,0.38,high repair frequency
+57,GEN057,LA,coolant leak,0.75,high repair costs
+58,GEN058,New York,motor vibration,0.43,low repair frequency
+59,GEN059,Atlanta,oil degradation,1.55,moderate repair frequency
+60,GEN060,Buffalo,fuel contamination,0.3,high repair costs
+61,GEN061,Atlanta,Cloudy oil,1.97,high repair costs
+62,GEN062,Boston,coolant leak,0.92,high repair frequency
+63,GEN063,Atlanta,Cloudy oil,0.55,moderate repair frequency
+64,GEN064,Atlanta,fuel contamination,1.61,low repair frequency
+65,GEN065,Tampa,oil degradation,1.33,high repair costs
+66,GEN066,LA,Cloudy oil,0.65,high repair costs
+67,GEN067,Chicago,fuel contamination,1.84,high repair frequency
+68,GEN068,Buffalo,motor vibration,0.67,low repair frequency
+69,GEN069,Dallas,fuel contamination,0.59,low repair frequency
+70,GEN070,Boston,Cloudy oil,0.98,moderate repair frequency
+71,GEN071,Buffalo,oil degradation,0.33,high repair costs
+72,GEN072,Seattle,coolant leak,1.72,high repair costs
+73,GEN073,Chicago,High Precipitates in Fuel,1.53,moderate repair frequency
+74,GEN074,Denver,Cloudy oil,0.8,high repair costs
+75,GEN075,Buffalo,oil degradation,0.34,low repair frequency
+76,GEN076,Atlanta,High Precipitates in Fuel,1.22,high repair frequency
+77,GEN077,New York,oil degradation,0.56,low repair frequency
+78,GEN078,Denver,fuel contamination,0.2,high repair costs
+79,GEN079,Chicago,fuel contamination,0.26,low repair frequency
+80,GEN080,Atlanta,oil degradation,0.99,high repair frequency
+81,GEN081,LA,oil degradation,1.8,low repair frequency
+82,GEN082,Tampa,oil degradation,1.55,high repair costs
+83,GEN083,Seattle,fuel contamination,0.22,low repair frequency
+84,GEN084,Dallas,oil degradation,0.77,high repair frequency
+85,GEN085,Boston,Cloudy oil,1.67,low repair frequency
+86,GEN086,Tampa,motor vibration,0.31,moderate repair frequency
+87,GEN087,Boston,Cloudy oil,0.72,moderate repair frequency
+88,GEN088,Atlanta,Cloudy oil,1.76,low repair frequency
+89,GEN089,Dallas,oil degradation,1.45,high repair frequency
+90,GEN090,Tampa,oil degradation,0.47,high repair costs
+91,GEN091,Boston,High Precipitates in Fuel,1.91,low repair frequency
+92,GEN092,LA,fuel contamination,1.68,moderate repair frequency
+93,GEN093,Chicago,Cloudy oil,1.45,low repair frequency
+94,GEN094,New York,High Precipitates in Fuel,0.66,high repair costs
+95,GEN095,Tampa,High Precipitates in Fuel,0.78,low repair frequency
+96,GEN096,New York,High Precipitates in Fuel,1.01,high repair frequency
+97,GEN097,Atlanta,coolant leak,1.33,high repair costs
+98,GEN098,Denver,coolant leak,0.55,high repair frequency
+99,GEN099,Denver,Cloudy oil,0.45,high repair costs
+100,GEN100,LA,oil degradation,1.06,moderate repair frequency
+101,GEN101,Chicago,fuel contamination,1.91,moderate repair frequency
+102,GEN102,Atlanta,motor vibration,1.89,moderate repair frequency
+103,GEN103,Tampa,High Precipitates in Fuel,0.29,high repair costs
+104,GEN104,Atlanta,oil degradation,1.39,low repair frequency
+105,GEN105,LA,coolant leak,0.36,moderate repair frequency
+106,GEN106,Chicago,coolant leak,0.76,high repair frequency
+107,GEN107,Atlanta,Cloudy oil,0.17,high repair costs
+108,GEN108,Chicago,High Precipitates in Fuel,1.18,high repair frequency
+109,GEN109,Boston,oil degradation,0.87,moderate repair frequency
+110,GEN110,Tampa,coolant leak,1.49,low repair frequency
+111,GEN111,Seattle,coolant leak,1.13,moderate repair frequency
+112,GEN112,Buffalo,motor vibration,0.38,high repair frequency
+113,GEN113,Dallas,oil becoming worse quality,0.81,high repair frequency
+114,GEN114,Denver,High Precipitates in Fuel,0.83,low repair frequency
+115,GEN115,New York,fuel contamination,1.45,high repair costs
+116,GEN116,Dallas,motor vibration,0.49,moderate repair frequency
+117,GEN117,Chicago,fuel contamination,0.78,low repair frequency
+118,GEN118,Tampa,oil becoming worse quality,0.53,high repair costs
+119,GEN119,Dallas,motor vibration,0.15,low repair frequency
+120,GEN120,LA,coolant leak,0.89,moderate repair frequency
+121,GEN121,Buffalo,oil becoming worse quality,1.09,moderate repair frequency
+122,GEN122,Atlanta,coolant leak,0.17,high repair frequency
+123,GEN123,Chicago,fuel contamination,0.83,moderate repair frequency
+124,GEN124,Denver,oil degradation,2.0,high repair costs
+125,GEN125,Denver,fuel contamination,1.42,high repair frequency
+126,GEN126,New York,fuel contamination,1.7,high repair frequency
+127,GEN127,Denver,High Precipitates in Fuel,0.91,high repair frequency
+128,GEN128,Chicago,fuel contamination,0.3,high repair costs
+129,GEN129,New York,fuel contamination,0.68,high repair costs
+130,GEN130,New York,coolant leak,1.0,moderate repair frequency
+131,GEN131,Atlanta,fuel contamination,1.19,low repair frequency
+132,GEN132,Seattle,High Precipitates in Fuel,1.86,high repair costs
+133,GEN133,Tampa,Cloudy oil,0.98,low repair frequency
+134,GEN134,LA,Cloudy oil,1.41,high repair costs
+135,GEN135,Buffalo,oil degradation,1.37,high repair costs
+136,GEN136,Denver,motor vibration,0.73,moderate repair frequency
+137,GEN137,Boston,motor vibration,0.15,moderate repair frequency
+138,GEN138,Seattle,oil becoming worse quality,0.66,moderate repair frequency
+139,GEN139,Boston,fuel contamination,1.74,low repair frequency
+140,GEN140,Denver,oil becoming worse quality,1.23,moderate repair frequency
+141,GEN141,Buffalo,coolant leak,0.55,high repair costs
+142,GEN142,Tampa,Cloudy oil,1.56,high repair frequency
+143,GEN143,Seattle,oil degradation,0.98,high repair costs
+144,GEN144,Boston,oil becoming worse quality,1.0,low repair frequency
+145,GEN145,Seattle,motor vibration,0.8,low repair frequency
+146,GEN146,Atlanta,oil degradation,1.17,moderate repair frequency
+147,GEN147,Denver,coolant leak,0.87,moderate repair frequency
+148,GEN148,Dallas,fuel contamination,0.43,low repair frequency
+149,GEN149,Seattle,Cloudy oil,1.47,high repair frequency
+150,GEN150,Dallas,Cloudy oil,1.89,high repair frequency
+151,GEN151,Boston,motor vibration,0.25,low repair frequency
+152,GEN152,Denver,coolant leak,1.72,low repair frequency
+153,GEN153,Denver,oil degradation,1.58,moderate repair frequency
+154,GEN154,Atlanta,coolant leak,1.48,high repair costs
+155,GEN155,Buffalo,fuel contamination,0.04,high repair frequency
+156,GEN156,Buffalo,coolant leak,1.23,moderate repair frequency
+157,GEN157,Atlanta,Cloudy oil,1.33,moderate repair frequency
+158,GEN158,LA,oil degradation,1.12,high repair frequency
+159,GEN159,New York,motor vibration,0.43,moderate repair frequency
+160,GEN160,Tampa,coolant leak,0.04,high repair costs
+161,GEN161,New York,coolant leak,1.1,high repair frequency
+162,GEN162,Atlanta,coolant leak,0.8,high repair frequency
+163,GEN163,LA,High Precipitates in Fuel,1.04,high repair costs
+164,GEN164,Seattle,coolant leak,1.23,moderate repair frequency
+165,GEN165,Dallas,oil becoming worse quality,1.77,moderate repair frequency
+166,GEN166,Boston,oil becoming worse quality,0.81,moderate repair frequency
+167,GEN167,Boston,fuel contamination,0.47,high repair costs
+168,GEN168,Boston,motor vibration,0.76,low repair frequency
+169,GEN169,Tampa,High Precipitates in Fuel,1.14,moderate repair frequency
+170,GEN170,Atlanta,coolant leak,1.96,high repair costs
+171,GEN171,LA,Cloudy oil,0.43,high repair costs
+172,GEN172,Boston,coolant leak,0.07,moderate repair frequency
+173,GEN173,Boston,coolant leak,1.33,high repair costs
+174,GEN174,Atlanta,oil degradation,0.2,high repair costs
+175,GEN175,LA,oil becoming worse quality,1.97,high repair costs
+176,GEN176,Chicago,Cloudy oil,0.55,high repair frequency
+177,GEN177,Chicago,oil becoming worse quality,1.28,high repair frequency
+178,GEN178,Seattle,oil becoming worse quality,1.68,high repair costs
+179,GEN179,Tampa,High Precipitates in Fuel,0.97,high repair costs
+180,GEN180,Denver,High Precipitates in Fuel,1.07,high repair frequency
+181,GEN181,New York,High Precipitates in Fuel,1.4,moderate repair frequency
+182,GEN182,LA,oil degradation,1.14,low repair frequency
+183,GEN183,New York,coolant leak,1.14,low repair frequency
+184,GEN184,Boston,fuel contamination,1.99,high repair costs
+185,GEN185,Atlanta,Cloudy oil,1.78,moderate repair frequency
+186,GEN186,Boston,Cloudy oil,0.25,moderate repair frequency
+187,GEN187,Atlanta,coolant leak,1.4,high repair frequency
+188,GEN188,Tampa,coolant leak,0.46,high repair costs
+189,GEN189,Denver,fuel contamination,0.56,high repair frequency
+190,GEN190,New York,Cloudy oil,0.56,high repair frequency
+191,GEN191,Tampa,oil becoming worse quality,1.85,high repair costs
+192,GEN192,Denver,motor vibration,0.93,high repair frequency
+193,GEN193,LA,coolant leak,1.73,high repair costs
+194,GEN194,LA,coolant leak,1.44,low repair frequency
+195,GEN195,Denver,High Precipitates in Fuel,1.76,high repair frequency
+196,GEN196,Atlanta,fuel contamination,0.33,high repair costs
+197,GEN197,Atlanta,High Precipitates in Fuel,1.61,high repair costs
+198,GEN198,LA,oil degradation,0.77,moderate repair frequency
+199,GEN199,Chicago,coolant leak,0.56,high repair frequency
