@@ -63,7 +63,7 @@ User query:
 &nbsp; "Which generators have oil-related issues?"
 
 
-┌────────────────────┐
+                ┌────────────────────┐
                 │  Synthetic Data    │
                 │ (Generator Logs)   │
                 └─────────┬──────────┘
