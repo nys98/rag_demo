@@ -62,8 +62,8 @@ FAISS (Facebook AI Similarity Search) is used to:
 User query:
 &nbsp; "Which generators have oil-related issues?"
 
-
-┌────────────────────┐
+```
+                ┌────────────────────┐
                 │  Synthetic Data    │
                 │ (Generator Logs)   │
                 └─────────┬──────────┘
@@ -106,7 +106,7 @@ User query:
                 │   RAG Response     │
                 │ (LLM / Output)     │
                 └────────────────────┘
-
+```
 
 Pipeline:
 
@@ -124,6 +124,7 @@ Pipeline:
 
 
 ## Project Structure
+```
 rag-generator-demo/
 │
 ├── data/
@@ -140,6 +141,7 @@ rag-generator-demo/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## Technologies Used
 
