@@ -124,6 +124,7 @@ Pipeline:
 
 
 ## Project Structure
+```
 rag-generator-demo/
 │
 ├── data/
@@ -140,6 +141,7 @@ rag-generator-demo/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ## Technologies Used
 
